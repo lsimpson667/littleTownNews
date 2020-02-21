@@ -1,0 +1,66 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+.mainContainer {   
+
+}
+
+.pageHeading {
+    text-align: center;
+    
+}
+
+navbar {
+    display: flex;
+    justify-content: space-around;
+    border-bottom: 1px solid grey;
+    padding-bottom: 10px;
+    
+}
+
+#btn {
+    background-color: white;
+    border: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+.newsStories {
+    display: flex;
+    margin-top: 25px;
+    justify-content: space-between;
+    margin-left: 70px;
+    margin-right: 50px;
+
+}
+
+.leftColumn {
+    max-width: 31%;
+    min-width: 20%;
+
+}
+
+.middleColumn {
+    max-width: 31%;
+    min-width: 20%;
+
+}
+
+.rightColumn {
+    max-width: 31%;
+    min-width: 20%;
+    text-align: center;
+
+}
+
+img {
+    max-width: 100%;
+    min-width: 20%;
+}
+
+span {
+    font-weight: bold;
+    font-size: 18pt;
+}
